@@ -9,11 +9,11 @@
 title: Tyrus Brenc
 email: tyrus.brenc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer Student at Hack Reactor
+  Web Development Student at Hack Reactor
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
-github_username:  
+github_username: akataz  
 
 # Build settings
 markdown: kramdown
